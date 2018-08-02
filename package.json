@@ -4,7 +4,8 @@
   "description": "Simple web app based on OMDb API to search movies.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Satadru Mallick",
   "license": "ISC",
