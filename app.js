@@ -1,6 +1,6 @@
-var express = require('express');
-var request = require('request');
-var app = express();
+const express = require('express');
+const request = require('request');
+const app = express();
 app.set('view engine', 'ejs');
 
 app.get('/', function(req, res){
